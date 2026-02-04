@@ -1,6 +1,6 @@
 #  Data Engineering Studies & Portfolio
 
-Este repositório centraliza minha jornada de aprendizado e projetos práticos em **Engenharia de Dados**, focando em Python, SQL, APIs e Construção de Pipelines.
+Este repositório centraliza minha jornada de aprendizado e projetos práticos em **Engenharia de Dados**, focando em Python, SQL, APIs, Linux e Construção de Pipelines.
 
 ## 📂 Projetos Desenvolvidos
 
@@ -25,13 +25,22 @@ Este repositório centraliza minha jornada de aprendizado e projetos práticos e
 * **Boas Práticas:** Uso de variáveis de ambiente (`.env`) e `.gitignore` para proteção de credenciais.
 * [Ver Documentação Completa](./03-API_Atenticação/README.md)
 
+### [04. Linux & Bash Fundamentals](./04-Linux-Bash-Fundamentals)
+**Foco:** Infraestrutura, Terminal (CLI) e Gerenciamento de Servidores.
+* **Navegação:** Manipulação avançada de arquivos e diretórios via Shell.
+* **Permissões:** Controle de acesso de usuários e grupos (`chmod`, `chown`).
+* **Virtualização:** Configuração e gerenciamento de ambientes virtuais (VirtualBox).
+* [Ver Documentação Completa](./04-Linux-Bash-Fundamentals/README.md)
+
 ---
-## 🛠️ Stack Geral
+##  Stack Geral
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Security](https://img.shields.io/badge/CyberSecurity-API_Auth-black?style=for-the-badge&logo=auth0&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 **Autor:** Samuel Pires
